@@ -1,5 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShallowFeather&hide=html,C,Makefile,CMake,Roff,Shell&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+OwO The man who like Rust
 
+Welcome to know whoami
+My Email: Kent1129o0@gmail.com
+My IG: ShallowFeather
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShallowFeather&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShallowFeather&theme=vue-dark&background=00360F)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShallowFeather&hide=html,C,Makefile,CMake,Roff,Shell&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShallowFeather&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
