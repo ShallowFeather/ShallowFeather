@@ -1,4 +1,4 @@
-OwO The man who like Rust
+OwO The man who likes Rust
 
 Welcome to know whoami
 
